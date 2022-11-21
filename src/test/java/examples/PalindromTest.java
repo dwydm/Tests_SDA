@@ -42,7 +42,7 @@ class PalindromTest {
         assertThat(actual).isTrue(); //assertJ
     }
 
-    static Stream<String> textProvider() {
+    private static Stream<String> textProvider() {
         return Stream.of("ALA", "AGA", "KAJAK");
     }
 }
