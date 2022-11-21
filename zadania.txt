@@ -1,0 +1,5 @@
+Zadanie 1. Napisać i przetestować program sprawdzajacy czy liczba jest pierwsza.
+Zadanie 2. Napisać i przetestować program, który zamienia liczbę dzisiętną na binarną.
+Zadanie 3. Napisać i przetestować program obliczajacy silnię dodatniej liczby całkowitej.
+Zadanie 4. Napisać i przetestować program, który losuje x róznych liczb z przedziału <a,b>, gdzie wszystkie trzy liczby są liczbami całkowitymi dodatnimi
+Zadanie 5. Przetestować prostą aplikację konsolowej "gra w karty z komputerem".
