@@ -1,4 +1,4 @@
-package mocks;
+package mocks.numbers;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

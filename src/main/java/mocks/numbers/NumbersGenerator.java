@@ -1,4 +1,4 @@
-package mocks;
+package mocks.numbers;
 
 import java.util.Random;
 import java.util.Set;
