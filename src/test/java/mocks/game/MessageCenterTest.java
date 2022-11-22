@@ -38,7 +38,7 @@ class MessageCenterTest {
         User tomasz = new User(1, "Tomasz", "ADMIN");
         User jacek = new User(2, "Jacek", "MOD");
         User genowefa = new User(3, "Genowefa", "USER");
-        User katarzyna = new User(4, "Katrzyna", "USER");
+        User katarzyna = new User(4, "Katarzyna", "USER");
 
         //when
 
