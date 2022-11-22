@@ -10,6 +10,11 @@ public class LottoGame {
     private static String PLAYER_ONE = "PLAYER ONE";
     private static String PLAYER_TWO = "PLAYER TWO";
 
+    private String string;
+
+    public int getNumber(int a){
+        return  a*2;
+    }
     public LottoGame(NumbersGenerator numbersGenerator) {
         this.numbersGenerator = numbersGenerator;
     }
